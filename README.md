@@ -1,2 +1,4 @@
 # gitdemo
-CSC 1120 Demo for Windows (following along)
+
+## Sub heading
+CSC 1120 **Demo** for ***Windows*** *(following along)*
